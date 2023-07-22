@@ -1,14 +1,4 @@
 Name,Group,Times,Language,Hours
-Advanced gender studies,8,[Wed: 14:30-16:00, Wed: 14:30-16:00, Wed: 14:30-16:00],English,3
-Introduction to gender studies,6,[Tue: 14:30-16:00],English,3
-Technology and monitoring work,5,[Wed: 14:30-16:00],English,3
-Andy Warhol and Pop Art,6,[Mon: 14:30-16:00],English,3
-Sports, diplomacy and human rights,6,[Tue: 14:30-16:00],English,3
-Introduction to Archaeology,6,[Mon: 14:30-16:00],English,3
-Inclusive leadership,8,[Wed: 14:30-16:00, Wed: 14:30-16:00, Wed: 14:30-16:00],English,3
-Women and philosophy,1,[Thu: 12:30-14:00],English,3
-Bioethics,6,[Thu: 14:30-16:00],English,3
-Introduction to Sociology,86,[Tue: 12:30-14:00, Thu: 14:30-16:00],English,6
 Introduction to patrimonial law,70,[Fri: 12:30-14:00, Wed: 10:45-12:15],English,6
 Introduction to patrimonial law,71,[Fri: 09:00-10:30, Wed: 10:45-12:15],English,6
 Introduction to patrimonial law,72,[Fri: 10:45-12:15, Wed: 10:45-12:15],English,6
@@ -19,17 +9,6 @@ Principles of Economics,71,[Fri: 12:30-14:00, Wed: 12:30-14:00],English,6
 Principles of Economics,72,[Fri: 09:00-10:30, Wed: 12:30-14:00],English,6
 Principles of Economics,73,[Fri: 19:45-21:15, Wed: 16:15-17:45],English,6
 Principles of Economics,74,[Fri: 18:00-19:30, Wed: 16:15-17:45],English,6
-Principles of Economics,44,[Mon: 10:45-12:15, Thu: 10:45-12:15],English,6
-Principles of Economics,45,[Mon: 10:45-12:15, Thu: 12:30-14:00],English,6
-Principles of Economics,58,[Tue: 18:00-19:30, Thu: 18:00-19:30],English,6
-Mathematics for Economics I,70,[Mon: 10:45-12:15, Thu: 09:00-10:30],English,6
-Mathematics for Economics I,71,[Mon: 10:45-12:15, Thu: 10:45-12:15],English,6
-Mathematics for Economics I,72,[Mon: 10:45-12:15, Thu: 12:30-14:00],English,6
-Mathematics for Economics I,73,[Tue: 16:15-17:45, Thu: 16:15-17:45],English,6
-Mathematics for Economics I,74,[Tue: 16:15-17:45, Thu: 18:00-19:30],English,6
-Mathematics for Economics I,44,[Mon: 12:30-14:00, Thu: 09:00-10:30],English,6
-Mathematics for Economics I,45,[Mon: 12:30-14:00, Thu: 10:45-12:15],English,6
-Mathematics for Economics I,58,[Tue: 16:15-17:45, Thu: 19:45-21:15],English,6
 Introduction to business administration,70,[Fri: 09:00-10:30, Wed: 09:00-10:30],English,6
 Introduction to business administration,71,[Fri: 10:45-12:15, Wed: 09:00-10:30],English,6
 Introduction to business administration,72,[Fri: 12:30-14:00, Wed: 09:00-10:30],English,6
@@ -47,24 +26,10 @@ Statistics II,71,[Fri: 16:15-17:45, Wed: 18:00-19:30],English,6
 Statistics II,72,[Fri: 09:00-10:30, Wed: 09:00-10:30],English,6
 Statistics II,73,[Wed: 10:45-12:15, Fri: 09:00-10:30, Wed: 10:45-12:15],English,6
 Statistics II,74,[Wed: 12:30-14:00, Fri: 09:00-10:30, Wed: 12:30-14:00],English,6
-Statistics II,58,[Mon: 10:45-12:15, Thu: 09:00-10:30],English,6
 Statistics II,44,[Fri: 18:00-19:30, Mon: 18:00-19:30],English,6
 Statistics II,45,[Fri: 18:00-19:30, Mon: 16:15-17:45],English,6
-Game Theory,70,[Mon: 16:15-17:45, Thu: 18:00-19:30],English,6
-Game Theory,71,[Mon: 18:00-19:30, Thu: 18:00-19:30],English,6
-Game Theory,72,[Mon: 09:00-10:30, Thu: 10:45-12:15],English,6
-Game Theory,73,[Mon: 10:45-12:15, Thu: 10:45-12:15],English,6
-Game Theory,74,[Mon: 12:30-14:00, Thu: 10:45-12:15],English,6
 Game Theory,44,[Fri: 16:15-17:45, Mon: 16:15-17:45],English,6
 Game Theory,45,[Fri: 16:15-17:45, Mon: 14:30-16:00],English,6
-Management Accounting,70,[Mon: 18:00-19:30, Thu: 16:15-17:45],English,6
-Management Accounting,71,[Mon: 16:15-17:45, Thu: 16:15-17:45],English,6
-Management Accounting,72,[Mon: 10:45-12:15, Thu: 12:30-14:00, Thu: 12:30-14:00],English,6
-Management Accounting,73,[Mon: 12:30-14:00, Thu: 12:30-14:00, Thu: 12:30-14:00],English,6
-Management Accounting,74,[Mon: 09:00-10:30, Thu: 09:00-10:30],English,6
-Management Accounting,58,[Mon: 12:30-14:00, Thu: 10:45-12:15],English,6
-Management Accounting,59,[Mon: 09:00-10:30, Thu: 10:45-12:15],English,6
-Management Accounting,44,[Tue: 09:00-10:30, Thu: 09:00-10:30],English,6
 Financial Economics,44,[Fri: 14:30-16:00, Mon: 14:30-16:00],English,6
 Financial Economics,45,[Fri: 14:30-16:00, Mon: 18:00-19:30],English,6
 Marketing,70,[Fri: 10:45-12:15, Tue: 09:00-10:30],English,6
@@ -72,8 +37,6 @@ Marketing,71,[Fri: 12:30-14:00, Tue: 09:00-10:30],English,6
 Marketing,72,[Fri: 09:00-10:30, Tue: 09:00-10:30],English,6
 Marketing,73,[Fri: 14:30-16:00, Tue: 16:15-17:45],English,6
 Marketing,58,[Fri: 16:15-17:45, Tue: 16:15-17:45],English,6
-Marketing,44,[Tue: 12:30-14:00, Thu: 12:30-14:00],English,6
-Marketing,45,[Tue: 14:30-16:00, Thu: 12:30-14:00],English,6
 Organizational Economics,70,[Fri: 09:00-10:30, Tue: 10:45-12:15],English,6
 Organizational Economics,71,[Fri: 10:45-12:15, Tue: 10:45-12:15],English,6
 Organizational Economics,72,[Fri: 12:30-14:00, Tue: 10:45-12:15],English,6
@@ -85,159 +48,41 @@ Strategic Management,71,[Fri: 10:45-12:15, Tue: 10:45-12:15],English,6
 Strategic Management,72,[Fri: 12:30-14:00, Tue: 10:45-12:15],English,6
 Strategic Management,73,[Fri: 14:30-16:00, Tue: 18:00-19:30],English,6
 Strategic Management,74,[Fri: 16:15-17:45, Tue: 18:00-19:30],English,6
-Strategic Management,58,[Tue: 10:45-12:15, Wed: 12:30-14:00],English,6
 Operations Management,70,[Fri: 12:30-14:00, Tue: 09:00-10:30],English,6
 Operations Management,71,[Fri: 09:00-10:30, Tue: 09:00-10:30],English,6
 Operations Management,72,[Fri: 10:45-12:15, Tue: 09:00-10:30],English,6
 Operations Management,73,[Fri: 16:15-17:45, Tue: 16:15-17:45],English,6
 Operations Management,74,[Fri: 14:30-16:00, Tue: 16:15-17:45],English,6
-Operations Management,58,[Mon, Wed: 10:45-12:15],English,6
-Operations Management,44,[Mon: 19:45-21:15, Thu: 18:00-19:30],English,6
-Financial Accounting,70,[Mon: 16:15-17:45, Thu: 16:15-17:45],English,6
-Organizational Design,70,[Mon: 10:45-12:15, Wed: 10:45-12:15],English,6
-Organizational Design,71,[Mon: 10:45-12:15, Wed: 09:00-10:30],English,6
-Organizational Design,72,[Wed: 12:30-14:00, Mon: 10:45-12:15, Wed: 12:30-14:00],English,6
-Organizational Design,73,[Mon: 14:30-16:00, Wed: 16:15-17:45],English,6
-Organizational Design,74,[Mon: 14:30-16:00, Wed: 18:00-19:30],English,6
 Organizational Design,44,[Fri: 14:30-16:00, Tue: 18:00-19:30],English,6
-Consumer Behaviour,70,[Mon: 09:00-10:30, Thu: 09:00-10:30],English,6
-Consumer Behaviour,71,[Mon: 09:00-10:30, Thu: 10:45-12:15],English,6
-Consumer Behaviour,72,[Mon: 09:00-10:30, Thu: 12:30-14:00],English,6
-Consumer Behaviour,73,[Mon: 16:15-17:45, Thu: 16:15-17:45],English,6
-Consumer Behaviour,74,[Mon: 16:15-17:45, Thu: 18:00-19:30],English,6
-Consumer Behaviour,75,[Mon: 16:15-17:45, Thu: 14:30-16:00],English,6
-The origins of the modern firm,70,[Tue: 12:30-14:00, Thu: 10:45-12:15],English,6
-The origins of the modern firm,71,[Tue: 12:30-14:00, Thu: 09:00-10:30],English,6
-Financial systems and institutions,70,[Tue: 12:30-14:00, Thu: 12:30-14:00, Thu: 12:30-14:00],English,6
-Financial systems and institutions,71,[Tue: 12:30-14:00, Thu: 10:45-12:15],English,6
-Financial systems and institutions,72,[Tue: 12:30-14:00, Thu: 14:30-16:00, Thu: 14:30-16:00],English,6
-Markets Research,44,[Mon: 18:00-19:30, Thu: 19:45-21:15],English,6
-Bank Management,70,[Mon: 19:45-21:15, Thu: 18:00-19:30],English,6
-Bank Management,71,[Mon: 19:45-21:15, Thu: 19:45-21:15],English,6
-International Trade,70,[Tue: 19:45-21:15, Thu: 18:00-19:30],English,6
-International Trade,71,[Tue: 19:45-21:15, Thu: 19:45-21:15],English,6
 International Trade,58,[Fri: 10:45-12:15, Tue: 12:30-14:00],English,6
-Human resource management,70,[Mon: 16:15-17:45, Thu: 18:00-19:30],English,6
-Human resource management,71,[Mon: 16:15-17:45, Thu: 16:15-17:45],English,6
-Human resource management,72,[Mon: 10:45-12:15, Thu: 10:45-12:15],English,6
-Human resource management,73,[Mon: 10:45-12:15, Thu: 12:30-14:00],English,6
-Human resource management,74,[Mon: 10:45-12:15, Thu: 09:00-10:30],English,6
 Sociology,49,[Fri: 12:30-14:00, Tue: 12:30-14:00],English,6
-Principles of Economics,49,[Wed: 12:30-14:00, Thu: 14:30-16:00],English,6
 Comparative Politics I,49,[Fri: 12:30-14:00, Tue: 10:45-12:15],English,6
-Political Philosophy,30,[Mon, Tue: 10:45-12:15],English,6
-Political Philosophy,35,[Tue: 09:00-10:30, Tue: 10:45-12:15],English,6
-History of Spain,30,[Mon: 09:00-10:30, Tue: 09:00-10:30],English,6
-History of Spain,35,[Mon: 09:00-10:30, Mon: 10:45-12:15],English,6
-Economics,30,[Mon: 10:45-12:15, Mon: 12:30-14:00],English,6
 Media Theory,30,[Fri: 09:00-10:30, Fri: 12:30-14:00],English,6
 Media Theory,35,[Fri: 09:00-10:30, Fri: 10:45-12:15],English,6
-Media Theory,50,[Wed: 09:00-10:30, Wed: 10:45-12:15],English,6
-Theory and analysis of the documentary film,30,[Tue: 09:00-10:30, Tue: 10:45-12:15],English,6
-Radio Journalism,30,[Wed: 09:00-10:30, Wed: 10:45-12:15],English,6
-Newspaper Reporting,30,[Thu: 14:30-16:00, Thu: 16:15-17:45],English,6
-Newspaper Reporting,50,[Tue: 16:15-17:45, Tue: 18:00-19:30],English,6
-Organization and management of media enterprises,30,[Mon, Tue: 14:30-16:00],English,6
-International journalism I: global information,50,[Mon: 16:15-17:45, Mon: 18:00-19:30],English,6
-Interpretative and investigative reporting,30,[Tue: 16:15-17:45, Tue: 18:00-19:30],English,6
-Interpretative and investigative reporting,50,[Tue: 14:30-16:00, Tue: 16:15-17:45],English,6
-Institutional Information,30,[Tue: 16:15-17:45, Tue: 18:00-19:30],English,6
-Institutional Information,50,[Wed: 14:30-16:00, Wed: 16:15-17:45],English,6
-Introduction to Mathematics for Economics,60,[Tue: 19:45-21:15, Thu: 19:45-21:15],English,3
-Introduction to Mathematics for Economics,61,[Tue: 19:45-21:15, Thu: 16:15-17:45],English,3
-Introduction to Mathematics for Economics,33,[Fri: 10:45-12:15],English,3
-Introduction to Mathematics for Economics,68,[Tue: 16:15-17:45, Thu: 19:45-21:15],English,3
-Introduction to Mathematics for Economics,69,[Tue: 16:15-17:45, Thu: 16:15-17:45],English,3
-Design and project planning,50,[Tue: 14:30-16:00],English,3
-Social Journalims,30,[Mon: 14:30-16:00, Thu: 14:30-16:00],English,6
-Scientific and technological journalism,30,[Thu: 16:15-17:45, Thu: 18:00-19:30],English,6
-Scientific and technological journalism,50,[Tue: 16:15-17:45, Tue: 18:00-19:30],English,6
-Efficient presentations,50,[Mon: 14:30-16:00, Mon: 14:30-16:00],English,3
-Negotiation,50,[Tue: 14:30-16:00, Tue: 14:30-16:00],English,3
-Negotiation,51,[Thu: 14:30-16:00],English,3
-Conflict Management,50,[Mon: 14:30-16:00],English,3
-Conflict Management,51,[Wed: 14:30-16:00],English,3
-Data analytical techniques for business,70,[Mon: 12:30-14:00, Wed: 12:30-14:00],English,6
-Data analytical techniques for business,71,[Mon: 12:30-14:00, Wed: 10:45-12:15],English,6
-Data analytical techniques for business,58,[Mon: 12:30-14:00, Wed: 09:00-10:30],English,6
-Digital Business,70,[Tue: 14:30-16:00, Thu: 14:30-16:00, Thu: 14:30-16:00],English,6
-Digital Business,71,[Tue: 14:30-16:00, Wed: 14:30-16:00],English,6
-Digital Business,72,[Tue: 14:30-16:00, Wed: 12:30-14:00],English,6
-Introduction to Data Mining for Business Intelligence,70,[Tue: 12:30-14:00, Thu: 12:30-14:00],English,6
-Introduction to Data Mining for Business Intelligence,71,[Tue: 12:30-14:00, Thu: 14:30-16:00],English,6
-Marketing and sales management,70,[Mon: 19:45-21:15, Wed: 19:45-21:15],English,6
-Digital Marketing,70,[Mon: 18:00-19:30, Wed: 19:45-21:15],English,6
-Digital Marketing,71,[Mon: 18:00-19:30, Wed: 18:00-19:30],English,6
-International Accounting,70,[Tue: 14:30-16:00, Thu: 12:30-14:00],English,6
-Principles of Economics,40,[Tue: 12:30-14:00, Wed: 10:45-12:15],English,6
-Principles of Economics,45,[Tue: 10:45-12:15, Wed: 10:45-12:15],English,6
-Principles of Economics,50,[Mon: 09:00-10:30, Mon: 10:45-12:15],English,6
 Introduction to communication and media studies,40,[Fri: 09:00-10:30, Fri: 12:30-14:00],English,6
 Introduction to communication and media studies,45,[Fri: 09:00-10:30, Fri: 10:45-12:15],English,6
-Introduction to communication and media studies,50,[Mon: 10:45-12:15, Mon: 12:30-14:00],English,6
-Spanish history: 20th century,40,[Tue: 10:45-12:15, Wed: 09:00-10:30],English,6
-Spanish history: 20th century,45,[Tue: 12:30-14:00, Wed: 09:00-10:30],English,6
 Spanish history: 20th century,50,[Tue: 09:00-10:30, Fri: 10:45-12:15],English,6
-Moving image history,40,[Wed: 12:30-14:00, Thu: 09:00-10:30],English,6
-Moving image history,45,[Wed: 12:30-14:00, Thu: 10:45-12:15],English,6
-Fundamentals of film and television direction I,40,[Mon: 12:30-14:00, Mon: 14:30-16:00, Thu: 12:30-14:00],English,6
 Fundamentals of film and television direction I,45,[Fri: 10:45-12:15, Fri: 12:30-14:00, Fri: 09:00-10:30],English,6
-Reading moving image (film and television),40,[Tue: 09:00-10:30, Thu: 10:45-12:15],English,6
-Reading moving image (film and television),45,[Tue: 09:00-10:30, Thu: 12:30-14:00],English,6
-Reading moving image (film and television),50,[Wed: 09:00-10:30, Wed: 10:45-12:15],English,6
 Film Production,40,[Mon: 16:15-17:45, Fri: 14:30-16:00],English,6
 Film Production,45,[Fri: 14:30-16:00, Fri: 16:15-17:45],English,6
 Film Production,50,[Fri: 14:30-16:00, Fri: 16:15-17:45],English,6
 Fiction Videomaking,40,[Fri: 14:30-16:00, Fri: 16:15-17:45, Wed: 16:15-17:45, Wed: 18:00-19:30],English,6
-Fiction Videomaking,45,[Tue: 16:15-17:45, Tue: 18:00-19:30, Thu: 16:15-17:45, Thu: 18:00-19:30],English,6
-Film Studies,40,[Mon: 16:15-17:45, Tue: 14:30-16:00],English,6
-Film Studies,45,[Mon: 18:00-19:30, Tue: 14:30-16:00],English,6
-Film and television in Spain,40,[Mon: 14:30-16:00, Mon: 18:00-19:30],English,6
-Film and television in Spain,45,[Mon: 14:30-16:00, Mon: 16:15-17:45],English,6
 Digital Post-production,40,[Tue: 14:30-16:00, Tue: 16:15-17:45, Fri: 16:15-17:45],English,6
 Digital Post-production,45,[Wed: 16:15-17:45, Wed: 18:00-19:30, Fri: 18:00-19:30],English,6
-Film Genre,40,[Thu: 12:30-14:00],English,3
-Photography: theory and practice,40,[Tue: 12:00-14:00],English,3
-Television Genre,40,[Thu: 18:00-19:00],English,3
-Scriptwriting for television (fiction),40,[Wed: 14:30-16:00],English,3
-Fiction television shows,40,[Fri: 12:30-14:00],English,3
-New trends in media,40,[Mon: 12:30-14:00],English,3
-Theory of law and sociology of law,44,[Tue: 09:00-10:30, Thu: 12:30-14:00],English,6
-Theory of law and sociology of law,45,[Tue: 09:00-10:30, Thu: 09:00-10:30],English,6
-Theory of law and sociology of law,33,[Tue: 09:00-10:30, Thu: 10:45-12:15],English,6
 Historical Foundations of the legal system,44,[Fri: 10:45-12:15, Tue: 10:45-12:15],English,6
 Historical Foundations of the legal system,33,[Fri: 09:00-10:30, Tue: 10:45-12:15],English,6
-Corporate and stock market law,44,[Mon: 16:15-17:45, Thu: 16:15-17:45],English,6
-Mediation and other alternative means of conflict resolution,217,[Mon: 14:30-16:00],English,3
-Mediation and other alternative means of conflict resolution,317,[Thu: 14:30-16:00, Mon: 14:30-16:00],English,3
-International fiscal policy,17,[Fri: 14:30-16:00, Tue: 14:30-16:00],English,3
 Introduction to business administration,60,[Fri: 18:00-19:30, Mon: 18:00-19:30],English,6
 Introduction to business administration,61,[Fri: 16:15-17:45, Mon: 18:00-19:30],English,6
 Introduction to business administration,68,[Fri: 16:15-17:45, Wed: 18:00-19:30],English,6
 Principles of Economics,60,[Fri: 16:15-17:45, Tue: 16:15-17:45],English,6
 Principles of Economics,61,[Fri: 18:00-19:30, Tue: 16:15-17:45],English,6
-Principles of Economics,33,[Mon: 10:45-12:15, Thu: 09:00-10:30],English,6
-Principles of Economics,68,[Tue: 18:00-19:30, Thu: 16:15-17:45],English,6
-Principles of Economics,69,[Tue: 18:00-19:30, Thu: 18:00-19:30],English,6
-Introduction to patrimonial law,60,[Mon: 16:15-17:45, Thu: 16:15-17:45],English,6
-Introduction to patrimonial law,61,[Mon: 16:15-17:45, Thu: 18:00-19:30],English,6
-Economic History,60,[Mon: 12:30-14:00, Thu: 12:30-14:00],English,6
-Economic History,61,[Mon: 09:00-10:30, Thu: 12:30-14:00],English,6
 Economic History,33,[Fri: 09:00-10:30, Thu: 14:30-16:00],English,6
-Macroeconomics,60,[Tue: 12:30-14:00, Thu: 10:45-12:15],English,6
-Macroeconomics,61,[Tue: 10:45-12:15, Thu: 10:45-12:15],English,6
 Macroeconomics,68,[Fri: 12:30-14:00, Tue: 12:30-14:00],English,6
 Macroeconomics,69,[Fri: 12:30-14:00, Tue: 09:00-10:30],English,6
 Statistics II,60,[Fri: 10:45-12:15, Tue: 10:45-12:15],English,6
 Statistics II,61,[Fri: 10:45-12:15, Tue: 12:30-14:00],English,6
 Statistics II,33,[Fri: 18:00-19:30, Mon: 14:30-16:00],English,6
-Statistics II,68,[Mon: 09:00-10:30, Thu: 09:00-10:30],English,6
-Game Theory,60,[Mon: 09:00-10:30, Thu: 09:00-10:30],English,6
-Game Theory,61,[Mon: 10:45-12:15, Thu: 09:00-10:30],English,6
-Game Theory,62,[Tue: 09:00-10:30, Thu: 09:00-10:30],English,6
 Game Theory,33,[Fri: 16:15-17:45, Mon: 18:00-19:30],English,6
-Game Theory,68,[Tue: 09:00-10:30, Thu: 12:30-14:00],English,6
-Game Theory,69,[Tue: 10:45-12:15, Thu: 12:30-14:00],English,6
 Microeconomic Theory,60,[Fri: 09:00-10:30, Mon: 10:45-12:15],English,6
 Microeconomic Theory,61,[Fri: 09:00-10:30, Mon: 12:30-14:00],English,6
 Microeconomic Theory,33,[Fri: 10:45-12:15, Tue: 12:30-14:00],English,6
@@ -250,94 +95,23 @@ Econometric Techniques,33,[Fri: 09:00-10:30, Tue: 09:00-10:30],English,6
 Econometric Techniques,68,[Fri: 16:15-17:45, Tue: 18:00-19:30],English,6
 Public Economics,60,[Fri: 12:30-14:00, Tue: 10:45-12:15],English,6
 Public Economics,61,[Fri: 10:45-12:15, Tue: 10:45-12:15],English,6
-Public Economics,33,[Tue: 12:30-14:00, Thu: 12:30-14:00],English,6
-Public Economics,68,[Mon: 18:00-19:30, Wed: 16:15-17:45],English,6
 Markets and Environment,60,[Fri: 19:45-21:15, Wed: 19:45-21:15],English,6
-Economic progress in Spain, 1850-2000,60,[Mon, Wed: 14:30-16:00],English,6
-Financial systems and institutions,60,[Mon: 09:00-10:30, Thu: 16:15-17:45, Thu: 16:15-17:45],English,6
-Regulation and competition policy,60,[Tue: 12:30-14:00, Thu: 09:00-10:30],English,6
-Regulation and competition policy,61,[Tue: 12:30-14:00, Thu: 10:45-12:15],English,6
-Quantitative Microeconomics,60,[Mon: 09:00-10:30, Thu: 09:00-10:30],English,6
 Labor Economics,60,[Fri: 14:30-16:00, Mon: 10:45-12:15],English,6
 Labor Economics,61,[Fri: 16:15-17:45, Mon: 10:45-12:15],English,6
 Economic Growth,60,[Fri: 18:00-19:30, Wed: 16:15-17:45],English,6
 Economic Growth,61,[Fri: 16:15-17:45, Wed: 16:15-17:45],English,6
-Regional and urban economics,60,[Tue: 18:00-19:30, Thu: 14:30-16:00],English,6
-Regional and urban economics,61,[Tue: 18:00-19:30, Thu: 12:30-14:00, Thu: 12:30-14:00],English,6
-Regional and urban economics,160,[Tue: 18:00-19:30, Thu: 16:15-17:45],English,6
-Economics of european integration,60,[Mon: 16:15-17:45, Thu: 19:45-21:15],English,6
-Economics of european integration,61,[Mon: 16:15-17:45, Thu: 18:00-19:30],English,6
 Introduction to patrimonial law,20,[Fri: 09:00-10:30, Tue: 09:00-10:30],English,6
 Introduction to business administration,20,[Fri: 10:45-12:15, Tue: 12:30-14:00],English,6
-Principles of Economics,20,[Mon: 12:30-14:00, Thu: 10:45-12:15],English,6
 Financial Mathematics,20,[Fri: 12:30-14:00, Tue: 10:45-12:15],English,6
-Financial Economics,20,[Tue: 14:30-16:00, Thu: 14:30-16:00],English,6
-Financial Economics,25,[Tue: 16:15-17:45, Thu: 14:30-16:00],English,6
 Management and Organization,20,[Fri: 14:30-16:00, Mon: 18:00-19:30],English,6
-Statistics II,20,[Mon: 16:15-17:45, Thu: 16:15-17:45],English,6
 Commercial Law,20,[Fri: 16:15-17:45, Tue: 18:00-19:30],English,6
 Financial Accounting I,20,[Fri: 18:00-19:30, Mon: 14:30-16:00],English,6
-Cost Management,20,[Tue: 10:45-12:15, Thu: 12:30-14:00],English,6
-Financial institution systems,20,[Mon: 10:45-12:15, Wed: 10:45-12:15],English,6
 Auditing financial statements,20,[Fri: 16:15-17:45, Thu: 16:15-17:45],English,6
 Corporate governance and social responsibility,20,[Fri: 19:45-21:15, Thu: 18:00-19:30],English,6
 Corporate governance and social responsibility,25,[Fri: 18:00-19:30, Thu: 18:00-19:30],English,6
-Asset valuation and selection,20,[Thu: 19:45-21:15, Tue: 18:00-19:30],English,6
-Bank Management,20,[Mon: 16:15-17:45, Tue: 16:15-17:45],English,6
-Managerial Accounting,20,[Mon: 14:30-16:00, Thu: 14:30-16:00, Mon: 14:30-16:00, Thu: 14:30-16:00],English,6
-Financial market law,20,[Mon: 18:00-19:30, Tue: 16:15-17:45],English,6
 Development of IT applications for business,20,[Tue: 16:15-17:45, Fri: 14:30-16:00, Tue: 16:15-17:45],English,6
-Prehistory and ancient history,60,[],English,6
-Introduction to Business,33,[Fri: 12:30-14:00, Fri: 12:30-14:00],English,3
-Topics in advanced Mathematics,60,[Mon: 12:30-14:00, Thu: 10:45-12:15],English,6
-Topics in advanced Microeconomics,60,[Mon: 18:00-19:30, Thu: 18:00-19:30],English,6
 Topics in advanced Econometrics,60,[Fri: 16:15-17:45, Tue: 16:15-17:45],English,6
-Mathematics for Economics I,60,[Tue: 18:00-19:30, Thu: 18:00-19:30],English,6
-Mathematics for Economics I,61,[Tue: 18:00-19:30, Thu: 19:45-21:15],English,6
-Mathematics for Economics I,33,[Mon: 09:00-10:30, Thu: 12:30-14:00],English,6
-Mathematics for Economics I,68,[Wed: 16:15-17:45, Thu: 18:00-19:30],English,6
-Mathematics for Economics I,69,[Wed: 16:15-17:45, Thu: 19:45-21:15],English,6
-Information Skills,400,[Mon: 14:30-16:00, Mon: 14:30-16:00],English,3
-Information Skills,401,[Mon: 14:30-16:00, Mon: 14:30-16:00],English,3
-Information Skills,402,[Mon: 14:30-16:00, Mon: 14:30-16:00],English,3
-Information Skills,403,[Wed: 14:30-16:00, Wed: 14:30-16:00],English,3
-Information Skills,404,[Thu: 14:30-16:00, Thu: 14:30-16:00],English,3
-Information Skills,405,[Thu: 14:30-16:00, Thu: 14:30-16:00],English,3
-Information Skills,500,[Mon: 14:30-16:00, Mon: 14:30-16:00],English,3
-Information Skills,501,[Tue: 14:30-16:00, Tue: 14:30-16:00],English,3
-Information Skills,502,[Fri: 14:30-16:00, Fri: 14:30-16:00],English,3
-Information Skills,106,[Mon: 14:30-16:00, Mon: 14:30-16:00],English,3
-Information Skills,107,[Tue: 14:30-16:00, Tue: 14:30-16:00],English,3
-Information Skills,108,[Wed: 14:30-16:00, Wed: 14:30-16:00],English,3
-Information Skills,109,[Thu: 14:30-16:00, Thu: 14:30-16:00],English,3
-Information Skills,110,[Fri: 14:30-16:00, Fri: 14:30-16:00],English,3
-Writing and Communication Skills,70,[Mon: 12:30-14:00, Thu: 10:45-12:15],English,3
-Writing and Communication Skills,71,[Mon: 12:30-14:00, Thu: 12:30-14:00],English,3
-Writing and Communication Skills,72,[Mon: 09:00-10:30, Thu: 09:00-10:30],English,3
-Writing and Communication Skills,73,[Tue: 18:00-19:30, Thu: 18:00-19:30],English,3
-Writing and Communication Skills,74,[Tue: 18:00-19:30, Thu: 16:15-17:45],English,3
-Writing and Communication Skills,33,[Tue: 12:30-14:00],English,3
-Writing and Communication Skills,82,[Fri: 12:30-14:00, Wed: 12:30-14:00],English,3
-Writing and Communication Skills,83,[Fri: 12:30-14:00, Wed: 10:45-12:15],English,3
-Writing and Communication Skills,55,[Mon: 12:30-14:00, Mon: 12:30-14:00],English,3
-Writing and Communication Skills,56,[Mon: 12:30-14:00, Tue: 12:30-14:00],English,3
-Writing and Communication Skills,45,[Fri: 09:00-10:30],English,3
-Writing and Communication Skills,18,[Wed: 19:45-21:15],English,3
-Writing and Communication Skills,118,[Wed: 19:45-21:15, Fri: 19:45-21:15],English,3
-Writing and Communication Skills,40,[Wed: 12:30-14:00, Thu: 10:45-12:15],English,3
-Writing and Communication Skills,45,[Wed: 12:30-14:00],English,3
-Writing and Communication Skills,50,[Fri: 09:00-10:30],English,3
 Research Seminar,45,[Fri: 12:30-14:00, Mon: 12:30-14:00],English,6
-Mathematics for Economics I,20,[Mon: 10:45-12:15, Thu: 12:30-14:00],English,6
-Macroeconomics,20,[Tue: 12:30-14:00, Thu: 10:45-12:15],English,6
-Quantitative methods for management,20,[Mon: 12:30-14:00, Wed: 12:30-14:00],English,6
-Advanced Financial Derivatives,20,[Tue: 14:30-16:00, Thu: 14:30-16:00],English,6
-Analysis of social problems II: gender inequalities,86,[Wed, Thu: 14:30-16:00],English,6
-Entrepreneurship,50,[Fri: 14:30-16:00],English,3
-Analysis and Decision Making,50,[Tue: 14:30-16:00],English,3
-Design Thinking,50,[Wed: 14:30-16:00],English,3
-Mise-en-scène,40,[Thu: 16:15-17:45],English,3
-Comparative Politics,45,[Mon: 12:30-14:00, Wed: 12:30-14:00],English,6
 Comparative Politics,55,[Fri: 10:45-12:15, Tue: 10:45-12:15],English,6
 Comparative Politics,56,[Fri: 12:30-14:00, Tue: 10:45-12:15],English,6
 Comparative Politics,58,[Fri: 16:15-17:45, Wed: 18:00-19:30],English,6
@@ -345,15 +119,6 @@ Comparative Politics,18,[Fri: 19:45-21:15, Wed: 18:00-19:30],English,6
 Comparative Politics,118,[Fri: 18:00-19:30, Wed: 18:00-19:30],English,6
 Comparative Politics,68,[Fri: 18:00-19:30, Wed: 19:45-21:15],English,6
 Comparative Politics,69,[Fri: 19:45-21:15, Wed: 19:45-21:15],English,6
-Economics I (Microeconomics),55,[Mon: 10:45-12:15, Wed: 10:45-12:15],English,6
-Economics I (Microeconomics),56,[Mon: 10:45-12:15, Wed: 12:30-14:00],English,6
-Economics I (Microeconomics),45,[Mon: 10:45-12:15, Wed: 10:45-12:15],English,6
-Economics I (Microeconomics),18,[Mon: 16:15-17:45, Thu: 16:15-17:45],English,6
-Economics I (Microeconomics),118,[Mon: 16:15-17:45, Thu: 19:45-21:15],English,6
-Law methodology and culture,55,[Mon: 09:00-10:30, Wed: 12:30-14:00],English,6
-Law methodology and culture,56,[Mon: 09:00-10:30, Wed: 10:45-12:15],English,6
-Law methodology and culture,58,[Tue: 14:30-16:00, Thu: 16:15-17:45],English,6
-Law methodology and culture,45,[Mon: 09:00-10:30, Wed: 12:30-14:00],English,6
 Law methodology and culture,68,[Fri: 19:45-21:15, Tue: 14:30-16:00],English,6
 Law methodology and culture,69,[Fri: 16:15-17:45, Tue: 14:30-16:00],English,6
 Comparative Sociology,55,[Fri: 09:00-10:30, Tue: 09:00-10:30],English,6
@@ -362,25 +127,9 @@ Comparative Sociology,58,[Fri: 19:45-21:15, Wed: 16:15-17:45],English,6
 Comparative Sociology,45,[Fri: 12:30-14:00, Tue: 09:00-10:30],English,6
 Comparative Sociology,18,[Fri: 18:00-19:30, Wed: 16:15-17:45],English,6
 Comparative Sociology,118,[Fri: 16:15-17:45, Wed: 16:15-17:45],English,6
-History of the world economy,68,[Thu: 10:45-12:15, Mon: 12:30-14:00],English,6
-History of the world economy,69,[Thu: 10:45-12:15, Mon: 10:45-12:15],English,6
-Statistics for social sciences II: multivariate techniques,55,[Mon: 16:15-17:45, Wed: 14:30-16:00],English,6
-Statistics for social sciences II: multivariate techniques,56,[Mon: 18:00-19:30, Wed: 14:30-16:00],English,6
-Statistics for social sciences II: multivariate techniques,45,[Mon: 18:00-19:30, Wed: 16:15-17:45],English,6
-Statistics for social sciences II: multivariate techniques,18,[Mon: 18:00-19:30, Wed: 16:15-17:45],English,6
-International economics: economic integration,55,[Mon: 18:00-19:30, Wed: 18:00-19:30],English,6
-International economics: economic integration,56,[Mon: 14:30-16:00, Wed: 18:00-19:30],English,6
 International economics: economic integration,58,[Fri: 10:45-12:15, Tue: 09:00-10:30],English,6
-International economics: economic integration,45,[Mon: 16:15-17:45, Wed: 18:00-19:30],English,6
 International economics: economic integration,18,[Fri: 12:30-14:00, Tue: 09:00-10:30],English,6
 International economics: economic integration,118,[Fri: 09:00-10:30, Tue: 09:00-10:30],English,6
-Public International Law,55,[Mon: 14:30-16:00, Wed: 16:15-17:45],English,6
-Public International Law,56,[Mon: 16:15-17:45, Wed: 16:15-17:45],English,6
-Public International Law,58,[Mon: 09:00-10:30, Thu: 12:30-14:00],English,6
-Public International Law,59,[Mon: 10:45-12:15, Thu: 12:30-14:00],English,6
-Public International Law,45,[Mon: 14:30-16:00, Thu: 16:15-17:45],English,6
-Public International Law,18,[Mon: 14:30-16:00, Thu: 12:30-14:00],English,6
-Public International Law,118,[Mon: 14:30-16:00, Thu: 10:45-12:15],English,6
 Public International Law,68,[Fri: 09:00-10:30, Tue: 10:45-12:15],English,6
 Public International Law,69,[Fri: 09:00-10:30, Tue: 12:30-14:00],English,6
 International political economy,55,[Fri: 14:30-16:00, Tue: 14:30-16:00],English,6
@@ -396,36 +145,14 @@ Cooperation, collective action and formal models of strategy,45,[Fri: 18:00-19:3
 Cooperation, collective action and formal models of strategy,18,[Fri: 19:45-21:15, Tue: 18:00-19:30],English,6
 Security, peace and conflicts resolution,58,[Fri: 09:00-10:30, Tue: 09:00-10:30],English,6
 Multidisciplinary Seminar on International Studies,55,[Fri: 10:45-12:15, Tue: 12:30-14:00],English,6
-Multidisciplinary Seminar on International Studies,58,[Mon: 18:00-19:30, Wed: 18:00-19:30],English,6
 Multidisciplinary Seminar on International Studies,45,[Fri: 14:30-16:00, Wed: 16:15-17:45],English,6
-Multidisciplinary Seminar on International Studies,18,[Tue: 12:30-14:00, Thu: 12:30-14:00],English,6
-Multidisciplinary Seminar on International Studies,68,[Mon: 16:15-17:45, Wed: 18:00-19:30],English,6
 Human Rights,55,[Fri: 09:00-10:30, Mon: 12:30-14:00],English,6
 Human Rights,56,[Fri: 12:30-14:00, Mon: 12:30-14:00],English,6
-Human Rights,58,[Mon: 19:45-21:15, Wed: 16:15-17:45],English,6
-Human Rights,45,[Mon: 09:00-10:30, Wed: 09:00-10:30],English,6
-Human Rights,18,[Mon: 19:45-21:15, Wed: 19:45-21:15],English,6
-Human Rights,118,[Mon: 19:45-21:15, Wed: 18:00-19:30],English,6
 Human Rights,68,[Fri: 09:00-10:30, Tue: 09:00-10:30],English,6
-Topics in international politics,55,[Mon: 10:45-12:15, Wed: 10:45-12:15],English,6
-Topics in international politics,56,[Mon: 10:45-12:15, Wed: 12:30-14:00],English,6
-Topics in international politics,58,[Mon: 16:15-17:45, Wed: 19:45-21:15],English,6
 Topics in international politics,45,[Fri: 09:00-10:30, Mon: 10:45-12:15],English,6
-Topics in international politics,18,[Mon: 16:15-17:45, Wed: 18:00-19:30],English,6
-Topics in international politics,118,[Mon: 16:15-17:45, Wed: 16:15-17:45],English,6
 Topics in international politics,68,[Fri: 10:45-12:15, Tue: 10:45-12:15],English,6
-International Finance,55,[Mon: 09:00-10:30, Wed: 12:30-14:00],English,6
-International Finance,56,[Mon: 09:00-10:30, Wed: 10:45-12:15],English,6
-International Finance,45,[Mon: 18:00-19:30, Tue: 14:30-16:00],English,6
-International Finance,18,[Mon: 18:00-19:30, Tue: 16:15-17:45],English,6
-Mutidisciplinary seminar on globalization,55,[Mon: 16:15-17:45, Wed: 14:30-16:00],English,6
 Mutidisciplinary seminar on globalization,58,[Fri: 12:30-14:00, Mon: 09:00-10:30],English,6
 Mutidisciplinary seminar on globalization,45,[Fri: 10:45-12:15, Mon: 09:00-10:30],English,6
-Mutidisciplinary seminar on globalization,18,[Mon: 16:15-17:45, Thu: 14:30-16:00],English,6
-Mutidisciplinary seminar on globalization,68,[Mon: 16:15-17:45, Thu: 19:45-21:15],English,6
-International aid and development cooperation,55,[Mon: 19:45-21:15, Tue: 19:45-21:15],English,6
-International aid and development cooperation,56,[Mon: 18:00-19:30, Tue: 19:45-21:15],English,6
-International Trade,55,[Tue: 19:45-21:15, Thu: 18:00-19:30],English,6
 Corruption and Accountability,55,[Fri: 18:00-19:30, Wed: 18:00-19:30],English,6
 Corruption and Accountability,56,[Fri: 18:00-19:30, Wed: 16:15-17:45],English,6
 Transitional justice and democratization,55,[Fri: 16:15-17:45, Tue: 16:15-17:45],English,6
@@ -434,88 +161,17 @@ New movements and transnational actors,55,[Fri: 14:30-16:00, Tue: 14:30-16:00],E
 New movements and transnational actors,56,[Fri: 14:30-16:00, Tue: 10:45-12:15],English,6
 Emerging countries,55,[Fri: 19:45-21:15, Tue: 18:00-19:30],English,6
 Emerging countries,56,[Fri: 19:45-21:15, Tue: 16:15-17:45],English,6
-Supranational integration processes,55,[Mon: 14:30-16:00, Thu: 12:30-14:00],English,6
-International financial systems,55,[Tue: 12:30-14:00, Thu: 10:45-12:15],English,6
-Screenwriting,40,[Mon: 14:30-16:00, Mon: 18:00-19:30],English,6
-Screenwriting,45,[Mon: 14:30-16:00, Mon: 16:15-17:45],English,6
-Screenwriting,50,[Wed: 14:30-16:00, Wed: 16:15-17:45],English,6
-Theory of Information and Comunication,20,[Tue: 12:30-14:00, Wed: 09:00-10:30],English,6
 Information retrieval systems,20,[Fri: 10:45-12:15, Fri: 12:30-14:00],English,6
 Basics of Information Technology,82,[Fri: 10:45-12:15, Wed: 10:45-12:15],English,6
 Basics of Information Technology,83,[Fri: 10:45-12:15, Wed: 12:30-14:00],English,6
-Principles of Economics,82,[Mon: 10:45-12:15, Thu: 12:30-14:00],English,6
-Principles of Economics,83,[Mon: 12:30-14:00, Thu: 12:30-14:00],English,6
-Introduction to Business Law,82,[Mon: 09:00-10:30, Thu: 09:00-10:30],English,6
-Introduction to Business Law,83,[Mon: 10:45-12:15, Thu: 09:00-10:30],English,6
-Mathematics I,82,[Mon: 12:30-14:00, Thu: 10:45-12:15],English,6
-Mathematics I,83,[Mon: 09:00-10:30, Thu: 10:45-12:15],English,6
-Databases and Data Modeling,82,[Tue: 18:00-19:30, Thu: 16:15-17:45],English,6
-Databases and Data Modeling,83,[Tue: 16:15-17:45, Thu: 16:15-17:45],English,6
 Operations and Supply Chain,82,[Fri: 16:15-17:45, Tue: 16:15-17:45, Tue: 16:15-17:45, Tue: 16:15-17:45],English,6
 Operations and Supply Chain,83,[Fri: 16:15-17:45, Tue: 19:45-21:15],English,6
-Digital Business,82,[Wed: 18:00-19:30, Thu: 19:45-21:15],English,6
-Digital Business,83,[Wed: 16:15-17:45, Thu: 19:45-21:15],English,6
-Business Ethics,82,[Thu: 16:15-17:45, Tue: 16:15-17:45],English,3
-Business Ethics,83,[Thu: 16:15-17:45, Tue: 18:00-19:30],English,3
-Big Data and Business Analytics,82,[Tue: 10:45-12:15, Thu: 10:45-12:15],English,6
-Big Data and Business Analytics,83,[Tue: 12:30-14:00, Thu: 10:45-12:15],English,6
-Human Resources,82,[Tue: 12:30-14:00, Thu: 12:30-14:00],English,6
-Human Resources,83,[Tue: 09:00-10:30, Thu: 12:30-14:00],English,6
-Advanced Knowledge of Spreadsheets,50,[Mon: 14:30-16:00, Mon: 14:30-16:00],English,3
-Advanced Knowledge of Spreadsheets,51,[Mon: 14:30-16:00, Mon: 14:30-16:00],English,3
-Advanced Knowledge of Spreadsheets,52,[Tue: 14:30-16:00, Tue: 14:30-16:00],English,3
-Advanced Knowledge of Spreadsheets,53,[Tue: 14:30-16:00, Tue: 14:30-16:00],English,3
-Advanced Knowledge of Spreadsheets,54,[Wed: 14:30-16:00, Wed: 14:30-16:00],English,3
-Advanced Knowledge of Spreadsheets,55,[Wed: 14:30-16:00, Wed: 14:30-16:00],English,3
-Advanced Knowledge of Spreadsheets,56,[Thu: 14:30-16:00, Thu: 14:30-16:00],English,3
-Advanced Knowledge of Spreadsheets,57,[Fri: 14:30-16:00, Fri: 14:30-16:00],English,3
-Strategic Management,82,[Tue: 18:00-19:30, Thu: 18:00-19:30],English,6
-Strategic Management,83,[Tue: 19:45-21:15, Thu: 18:00-19:30],English,6
 Statistical Learning,82,[Fri: 18:00-19:30, Wed: 19:45-21:15],English,6
 E-Commerce,82,[Fri: 19:45-21:15, Thu: 14:30-16:00],English,6
-Digital Entrepreneurship,82,[Tue: 09:00-10:30, Thu: 09:00-10:30],English,6
-Digital Entrepreneurship,83,[Tue: 10:45-12:15, Thu: 09:00-10:30],English,6
-Financial Accounting,82,[Fri: 12:30-14:00, Wed: 10:45-12:15],English,3
 Organizational Design,82,[Fri: 16:15-17:45, Wed: 16:15-17:45],English,6
-Global Business Management,82,[Mon: 14:30-16:00, Wed: 14:30-16:00],English,6
-Machine Learning for Business Decision Making,82,[Tue: 19:45-21:15, Thu: 19:45-21:15],English,6
-Machine Learning for Business Decision Making,83,[Tue: 16:15-17:45, Thu: 19:45-21:15],English,6
 Macroeconomics,182,[Fri: 10:45-12:15, Wed: 12:30-14:00],English,6
-Macroeconomics,83,[Wed: 18:00-19:30, Thu: 18:00-19:30],English,6
-Financial Management,82,[Tue: 16:15-17:45, Thu: 16:15-17:45],English,3
-Financial Management,83,[Tue: 18:00-19:30, Thu: 16:15-17:45],English,3
 Digital Product Development,82,[Fri: 14:30-16:00, Tue: 14:30-16:00],English,6
-Advanced Big Data Analysis,82,[Mon: 16:15-17:45],English,3
-E-Branding,82,[Mon: 18:00-19:30, Wed: 18:00-19:30],English,6
-Statistics,70,[Thu: 09:00-10:30, Thu: 10:45-12:15],English,6
-Principles of economics,70,[Thu: 10:45-12:15, Thu: 12:30-14:00],English,6
-Geopolitics,70,[Tue: 10:45-12:15, Tue: 12:30-14:00],English,6
-History of the today's world,70,[Tue: 14:30-16:00, Tue: 16:15-17:45],English,6
-Political Economy,70,[Mon, Tue: 18:00-19:30],English,6
-Historical Sociology,70,[Tue: 14:30-16:00, Tue: 16:15-17:45],English,6
-War, Peace and Political Violence,70,[Thu, Fri: 14:30-16:00],English,6
-Structure and social change,70,[Wed: 14:30-16:00, Wed: 16:15-17:45],English,6
 Introduction to Political Science,70,[Fri: 10:45-12:15, Fri: 12:30-14:00],English,6
-Cultural Anthropology,80,[Tue: 09:00-10:30, Tue: 10:45-12:15],English,6
-Cultural dimensión of art,80,[Mon: 09:00-10:30, Mon: 10:45-12:15],English,6
-Introduction to cultural studies,80,[Wed: 09:00-10:30, Wed: 10:45-12:15],English,6
 Mass Media Theory,80,[Fri: 09:00-10:30, Fri: 10:45-12:15],English,6
-Communication and mediation theory,80,[Mon: 10:45-12:15, Mon: 12:30-14:00],English,6
-Construction, transmission and reception of culture,80,[Wed, Thu: 10:45-12:15],English,6
-Ethics and Culture,80,[Mon: 09:00-10:30, Tue: 09:00-10:30],English,6
-Sociology of Culture,80,[Wed, Thu: 09:00-10:30],English,6
-Science and Culture,80,[Mon: 14:30-16:00, Mon: 16:15-17:45],English,6
-Policies of diversity,80,[Tue: 14:30-16:00, Tue: 16:15-17:45],English,6
-Introduction to Business,82,[Wed: 12:30-14:00, Fri: 12:30-14:00],English,3
-Introduction to Business,83,[Wed: 10:45-12:15, Fri: 12:30-14:00],English,3
 Statistics II,82,[Fri: 18:00-19:30, Tue: 19:45-21:15],English,6
 Statistics II,83,[Fri: 18:00-19:30, Tue: 18:00-19:30],English,6
-Digital Skills for Information Use,300,[Mon: 14:30-16:00, Mon: 14:30-16:00],English,3
-Digital Skills for Information Use,301,[Wed: 14:30-16:00, Wed: 14:30-16:00],English,3
-Digital Skills for Information Use,302,[Wed: 14:30-16:00, Wed: 14:30-16:00],English,3
-Digital Skills for Information Use,303,[Thu: 14:30-16:00, Thu: 14:30-16:00],English,3
-Digital Skills for Information Use,304,[Fri: 14:30-16:00, Fri: 14:30-16:00],English,3
-,1,[Mon: 12:30-14:00],English,3
-Music and Technology for non-Engineers,1,[Tue: 12:30-14:00],English,3
-Today´s World: The Global Age,1,[Tue: 12:30-14:00],English,3
-The Arctic: a space of cooperation and conflict,5,[Thu: 14:30-16:00],English,3
